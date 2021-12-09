@@ -853,3 +853,7 @@ button,
       left: auto;
       margin: 1em 0 0 0;
       position: relative; } }
+.CommentBox > div {
+    margin:0 auto;
+    width:250px;
+}
