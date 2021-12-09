@@ -753,6 +753,9 @@ button,
   font-size: 1.35em;
   line-height: 1.65em; }
 
+#header h2{
+	text-align: right; }
+
 #header a {
   color: inherit; }
 
@@ -857,3 +860,4 @@ button,
     margin:0 auto;
     width:250px;
 }
+
