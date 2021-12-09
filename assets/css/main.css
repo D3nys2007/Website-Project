@@ -757,7 +757,7 @@ button,
   .button.disabled,
   .button:disabled {
     opacity: 0.5; }
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 40%) {
     input[type="submit"],
     input[type="reset"],
     input[type="button"],
