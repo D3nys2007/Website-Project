@@ -745,10 +745,10 @@ button,
       padding: 0; } }
 
 /* Header */
-#header h1 {
+    }#header h1 {
   font-size: 3.25em;
   margin: 0 0 0.55em 0; }
-
+   h1{text-align: center;}
 #header p {
   font-size: 1.35em;
   line-height: 1.65em; }
